@@ -11,6 +11,6 @@ s = down
 
 ## Screenshots
 
-![Title screen] (https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20title%201.PNG)
+![Title screen](https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20title%201.PNG)
 
-![End screen] (https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20end.PNG)
+![End screen](https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20end.PNG)
