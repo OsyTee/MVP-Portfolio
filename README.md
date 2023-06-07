@@ -8,3 +8,9 @@ a = left
 d = right
 w = up
 s = down
+
+## Screenshots
+
+![Title screen] (https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20title%201.PNG)
+
+![End screen] (https://raw.githubusercontent.com/OsyTee/MVP-Portfolio/main/Screenshhots/Game%20end.PNG)
